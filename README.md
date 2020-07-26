@@ -7,16 +7,16 @@
 
 ## Technologies Used
 
-Node.js (Express)
-MySQL
-React
-Twilio API
+- Node.js (Express)
+- MySQL
+- React
+- Twilio API
 
 ## Tools Used
 
-VS Code
-MySQL Workbench
-Postman
+- VS Code
+- MySQL Workbench
+- Postman
 
 ## Author
 
